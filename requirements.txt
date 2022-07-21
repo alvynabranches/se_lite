@@ -1,0 +1,4 @@
+pydub
+scipy
+streamlit==1.10.0
+tensorflow==2.9.1
